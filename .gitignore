@@ -1,0 +1,79 @@
+# Unity generated folders
+[Ll]ibrary
+[Tt]emp
+[Oo]bj
+[Bb]uild
+[Bb]uilds
+[Ll]ogs
+[Uu]serSettings
+MemoryCaptures
+Recordings
+
+# Visual Studio  Rider  VSCode
+.vs
+.csproj
+.unityproj
+.sln
+.suo
+.tmp
+.user
+.userprefs
+.pidb
+.booproj
+.svd
+.pdb
+.mdb
+.idea
+.swp
+.code-workspace
+
+# Auto-generated Unity files
+.unitypackage
+.meta~
+
+# TextMesh Pro auto-generated files
+[Tt]extMesh Pro
+!AssetsTextMesh Pro
+
+# Crash and temporary Unity files
+sysinfo.txt
+.stacktrace
+
+# Exclude asset store tools
+AssetsAssetStoreTools
+
+# Exclude builds
+.apk
+.aab
+.xcodeproj
+.app
+.exe
+.dll
+.dSYM
+.ipa
+
+# Ignore cache
+.apt_generated
+.gradle
+.pidb.meta
+.cache
+.config
+
+# Ignore Rider plugin
+.idea
+
+# Ignore JetBrains Unity plugin
+AssetsPluginsEditorJetBrains
+
+# Local only
+.local
+
+# Ignore Saved Shader Cache (Unity 2020+)
+[Ll]ibraryShaderCache
+
+# Ignore Terrain auto backups
+.TerrainData
+
+# Ignore Blender autosave files
+.blend1
+.blend2
